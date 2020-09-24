@@ -1,0 +1,103 @@
+No. of iterations = 100
+No. of Shots = 1
+Output:
+Cost after step     5:  0.5000000
+Cost after step    10:  1.5000000
+Cost after step    15:  1.5000000
+Cost after step    20:  1.5000000
+Cost after step    25:  0.5000000
+Cost after step    30:  0.5000000
+Cost after step    35:  1.5000000
+Cost after step    40:  0.5000000
+Cost after step    45:  0.5000000
+Cost after step    50:  0.5000000
+Cost after step    55:  0.5000000
+Cost after step    60:  0.5000000
+Cost after step    65:  0.5000000
+Cost after step    70:  1.5000000
+Cost after step    75:  0.5000000
+Cost after step    80:  0.5000000
+Cost after step    85:  0.5000000
+Cost after step    90:  0.5000000
+Cost after step    95:  1.5000000
+Cost after step   100:  0.5000000
+Optimized rotation angles: [3.  2.4]
+
+No. of iterations = 100
+No. of Shots = 10
+Output:
+Cost after step     5:  0.3800000
+Cost after step    10:  0.1400000
+Cost after step    15:  0.0600000
+Cost after step    20:  0.1400000
+Cost after step    25:  0.2600000
+Cost after step    30:  0.0200000
+Cost after step    35:  0.0200000
+Cost after step    40:  0.0800000
+Cost after step    45:  0.0200000
+Cost after step    50:  0.0000000
+Cost after step    55:  0.0800000
+Cost after step    60:  0.0200000
+Cost after step    65:  0.0200000
+Cost after step    70:  0.0200000
+Cost after step    75:  0.0000000
+Cost after step    80:  0.0000000
+Cost after step    85:  0.0200000
+Cost after step    90:  0.0800000
+Cost after step    95:  0.0800000
+Cost after step   100:  0.1800000
+Optimized rotation angles: [1.64  2.924]
+
+
+No. of iterations = 100
+No. of Shots = 100
+Output:
+Cost after step     5:  0.0614000
+Cost after step    10:  0.0186000
+Cost after step    15:  0.0026000
+Cost after step    20:  0.0126000
+Cost after step    25:  0.0050000
+Cost after step    30:  0.0270000
+Cost after step    35:  0.0456000
+Cost after step    40:  0.0516000
+Cost after step    45:  0.0128000
+Cost after step    50:  0.0056000
+Cost after step    55:  0.0074000
+Cost after step    60:  0.0104000
+Cost after step    65:  0.0054000
+Cost after step    70:  0.0018000
+Cost after step    75:  0.0018000
+Cost after step    80:  0.0314000
+Cost after step    85:  0.0014000
+Cost after step    90:  0.0014000
+Cost after step    95:  0.0002000
+Cost after step   100:  0.0014000
+Optimized rotation angles: [1.55708 2.8982 ]
+
+
+No. of iterations = 100
+No. of Shots = 1000
+Output:
+Cost after step     5:  0.0718760
+Cost after step    10:  0.0208360
+Cost after step    15:  0.0083180
+Cost after step    20:  0.0039860
+Cost after step    25:  0.0036380
+Cost after step    30:  0.0039620
+Cost after step    35:  0.0014300
+Cost after step    40:  0.0022660
+Cost after step    45:  0.0012320
+Cost after step    50:  0.0018260
+Cost after step    55:  0.0015600
+Cost after step    60:  0.0007460
+Cost after step    65:  0.0007540
+Cost after step    70:  0.0003440
+Cost after step    75:  0.0003420
+Cost after step    80:  0.0029700
+Cost after step    85:  0.0004380
+Cost after step    90:  0.0001480
+Cost after step    95:  0.0011220
+Cost after step   100:  0.0000660
+Optimized rotation angles: [1.5797136 2.9156528]
+
+As we can see, the accuracy of the optimized rotaition angles increases as the number of measurements (shots) is increased.
